@@ -1,2 +1,2 @@
 # simple_js_debug_log
-Simple java-script debug log for your site
+Simple java-script error back end log for your site
