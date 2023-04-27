@@ -1,7 +1,7 @@
 //Recomment to use this code in line html, after <head> open
 
 window.onerror = function (message, file, line, col, error) {
-             url = '/index.php?route=cactus/ajax/logJSE';
+             url = '/simple_log_jse.php';
              data = 'jsError='+error+
                  "&jsE_message="+message+
                  "&jsE_file="+file+
